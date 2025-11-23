@@ -2,7 +2,7 @@
 
 <img width="1919" height="1140" alt="Screenshot 2025-11-23 210359" src="https://github.com/user-attachments/assets/2e464ef3-b430-46e6-9271-788864d6debd" />
 
-<img width="1755" height="281" alt="image" src="https://github.com/user-attachments/assets/8263c009-8ac3-4aec-8420-83143295c9b5" />
+<img width="1184" height="605" alt="image" src="https://github.com/user-attachments/assets/b565c3a1-64f7-4530-a3d4-aef9c2a59972" />
 
 ---
 
@@ -92,7 +92,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run:
 
@@ -144,13 +144,13 @@ booking/booking.py
 
 ---
 
-## 🛠 Troubleshooting
+## Troubleshooting
 
-### ⚠️ Currency popup not found
+### Currency popup not found
 
 Not all regions show the currency button — script continues safely.
 
-### ⚠️ NoSuchElement
+### NoSuchElement
 
 Booking.com frequently changes HTML.
 If this happens:
