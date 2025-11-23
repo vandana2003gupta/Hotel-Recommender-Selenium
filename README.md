@@ -2,7 +2,7 @@
 
 <img width="1919" height="1140" alt="Screenshot 2025-11-23 210359" src="https://github.com/user-attachments/assets/2e464ef3-b430-46e6-9271-788864d6debd" />
 
-<img width="1046" height="553" alt="image" src="https://github.com/user-attachments/assets/e0c27746-e56d-4ed2-833a-ff3951f98101" />
+<img width="1755" height="281" alt="image" src="https://github.com/user-attachments/assets/8263c009-8ac3-4aec-8420-83143295c9b5" />
 
 ---
 
@@ -159,39 +159,6 @@ If this happens:
 * Re-run in non-headless mode
 * Update CSS selectors in `booking.py`
 
----
-
-## 📝 License
-
-Licensed under the **MIT License** — free to use, modify, or commercialize.
-
----
-
-## 💬 Need Enhancements?
-
-I can add:
-
-* ✔ GUI (HTML/CSS or Tkinter)
-* ✔ API-based backend
-* ✔ Docker support
-* ✔ Automatic PDF report export
-* ✔ CI/CD GitHub Actions workflow badges
-* ✔ Logging + screenshots on failure
-
-Just tell me what you want next!
-
----
-
-If you want, I can also generate a **README with:**
-
-* Emojis everywhere
-* Professional tone
-* Minimalist tone
-* Corporate style
-* DevOps style with pipelines
-* Or a version with GIF demos
-
-Would you like another version?
 
 
 <img width="1919" height="1060" alt="image" src="https://github.com/user-attachments/assets/fce00507-eb98-4d08-9bef-ced2b01bebfa" />
